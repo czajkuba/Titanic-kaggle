@@ -1,2 +1,2 @@
 # titanic_kaggle
-Learning Data Science basics on kaggle titanic competition
+Learning Data Science basics on kaggle's titanic competition
